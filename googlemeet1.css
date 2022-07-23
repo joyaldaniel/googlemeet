@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+}
+
+
+.header{
+    background-color: #fff;
+    width: 100%;
+    head
+}
+
+.header1{
+    width:50%;
+    float : left;
+}
+.im {
+    padding-left: 40px;
+    
+    
+}
+.header2{
+    float: right;
+    width: 50%;
+    display: flex;
+
+}
+.logo{
+    
+    padding-left: 7px;
+    padding-top: 5px;
+    width: 150px;
+    height: 50PX;
+    float: left;
+}
+.h1{
+    float:left;
+    margin: 0%;
+    padding-left: 6%;
+    
+}
+.meet{
+    float: inline-end;
+    font-size: 25px;
+    padding-top: 15px;
+    color: #5f6368;
+    font-family: "Product Sans",Arial,sans-serif;
+}
+.n1{
+    font-size: 44px;
+    font-family:"Google Sans Display",Roboto,Arial,sans-serif ;
+    line-height: 3.25rem;
+    font-weight:200;
+    padding-top: 150px;
+    
+    
+}
+.n2{
+    
+    color:  #5f6368;
+    font-family: "Google Sans Display",Roboto,Arial,sans-serif ;
+
+}
+.outer{
+    background-color: #1a73e8;
+    width: 170px;
+    border-radius:5px;
+    height: 45px;
+    position: relative;
+    padding-bottom: 10;
+    float: left;
+    margin-right: 30px;
+    
+    
+    
+    
+}
+.newmeeting{
+    color: #fff;
+    font-family: "Google Sans Display",Roboto,Arial,sans-serif ;
+    position: absolute;
+    padding-left: 20%;
+    float: left;
+}
+.img{
+    padding-top: 9%;
+    float: left;
+}
+.outer2{
+    
+    background-color:#fff;
+    height: 55;
+    border-radius: 5px;
+    left: 207px;
+    width: 255px;
+    position: relative;
+    border-style: solid;
+    
+    
+    
+}
+.code{
+    color: #5f6368;
+    position: absolute;
+    width: 105px;
+    padding-top: 10%;
+    padding-left: 20%;
+    
+
+
+
+}
+.key{
+    float:right;
+    padding-top:9px;
+    position: absolute;
+    
+    
+}
+.h2{
+    padding-top: 12%;
+    padding-left: 60%;
+}
+.low{
+    font-size: 29px;
+    font-family: "Google Sans Display",Roboto,Arial,sans-serif ;
+    font-weight: 100;
+}
+.lowest{
+    font-weight: 100;
+    font-family: "Google Sans Display",Roboto,Arial,sans-serif ;
+    font-size: 16px;
+}
+.time{
+    font-family:"Google Sans Display",Roboto,Arial,sans-serif ;
+    color:#5f6368;
+    font-size: 22px;
+    font-weight: 100;
+}
+.last{
+    border-top-color:black;
+    padding-left: 10%;
+    font-weight: 100;
+    font-family:"Google Sans Display",Roboto,Arial,sans-serif ;
+    color: #5f6368;
+    
+}
+.type{
+    height: 53px;
+    width: 200px;
+    padding-left: 10%;
+    
+    
+}
+.imgin{
+    padding-left: 20px;
+    
+}
+.link{
+padding-left: 20px;
+margin: 23px;
+margin-left: 30px;
+}
